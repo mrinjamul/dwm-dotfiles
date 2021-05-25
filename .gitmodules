@@ -1,0 +1,15 @@
+[submodule ".local/src/dwm"]
+	path = .local/src/dwm
+	url = https://github.com/mrinjamul/dwm
+[submodule ".local/src/dmenu"]
+	path = .local/src/dmenu
+	url = https://github.com/mrinjamul/dmenu
+[submodule ".local/src/dwmblocks"]
+	path = .local/src/dwmblocks
+	url = https://github.com/mrinjamul/dwmblocks
+[submodule ".local/src/slock"]
+	path = .local/src/slock
+	url = https://github.com/mrinjamul/slock
+[submodule ".local/src/surf"]
+	path = .local/src/surf
+	url = https://github.com/mrinjamul/surf
