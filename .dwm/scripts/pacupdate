@@ -1,0 +1,8 @@
+#!/bin/bash
+
+cupd=$(checkupdates | wc -l)
+# aurupd=$(checkupdates-aur | wc -l)
+
+# echo "$((cupd + aurupd)) updates "
+echo "$((cupd)) updates "
+

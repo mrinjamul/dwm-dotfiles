@@ -1,0 +1,7 @@
+#!/bin/sh
+
+LOCATION="$HOME/.local/share/wallpapers/04.png"
+
+# sleep .5; notify-send "feh" "Message: $(file $LOCATION)";
+
+feh --no-fehbg --bg-scale $LOCATION
