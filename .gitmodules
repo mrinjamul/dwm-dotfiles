@@ -13,3 +13,6 @@
 [submodule ".local/src/surf"]
 	path = .local/src/surf
 	url = https://github.com/mrinjamul/surf
+[submodule ".local/src/tabbed"]
+	path = .local/src/tabbed
+	url = https://github.com/mrinjamul/tabbed
