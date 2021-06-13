@@ -16,3 +16,6 @@
 [submodule ".local/src/tabbed"]
 	path = .local/src/tabbed
 	url = https://github.com/mrinjamul/tabbed
+[submodule ".local/src/sent"]
+	path = .local/src/sent
+	url = https://github.com/mrinjamul/sent
